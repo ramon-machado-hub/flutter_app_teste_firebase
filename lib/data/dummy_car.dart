@@ -1,0 +1,43 @@
+/*import 'package:flutter_app_teste_firebase/models/car.dart';
+
+class DUMMY_CAR (){
+  '1': Car(
+    id: '1',
+    id_proprietario: '1',
+    placa: 'jqp9999',
+    cor: 'branco',
+    modelo: 'GOL 1.0',
+    marca: 'WOLKSVAGEM',
+    quilometragem: '150',
+    ano: '2019',
+    calcao: '450,00',
+    diaria: '150,00',
+    foto_url:'https://www.pngkit.com/png/detail/417-4176554_gol-g5-branco-png.png',
+  ),
+  '2': Car(
+    id: '2',
+    id_proprietario: '2',
+    placa: 'jqp9999',
+    cor: 'branco',
+    modelo: 'PALIO 1.0 FLEX',
+    marca: 'FIAT',
+    quilometragem: '180',
+    ano: '2015',
+    calcao: '400,00',
+    diaria: '100,00',
+    foto_url:'https://2.bp.blogspot.com/-m53thQryl0k/TWHR2Cfg4gI/AAAAAAAALRw/mYZUOh8ffZA/s1600/Fiat-Palio-Fire-Economy-2011.jpg',
+  ),
+  '3': Car(
+    id: '3',
+    id_proprietario: '2',
+    placa: 'jao1234',
+    cor: 'branco',
+    modelo: 'COROLA XEI FLEX',
+    marca: 'TOYOTA',
+    quilometragem: '300',
+    ano: '2020',
+    calcao: '700,00',
+    diaria: '300,00',
+    foto_url:'https://revistacarro.com.br/wp-content/uploads/2019/09/Toyota-Corolla_1-1.jpg',
+  ),
+}*/
